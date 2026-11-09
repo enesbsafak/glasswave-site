@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://enesbsafak.github.io/glasswave-site/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://enesbsafak.github.io/glasswave-site/tr/"/>
+    <lastmod>2026-11-10</lastmod>
+  </url>
+  <url>
+    <loc>https://enesbsafak.github.io/glasswave-site/tr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://enesbsafak.github.io/glasswave-site/"/>
+    <lastmod>2026-11-10</lastmod>
+  </url>
+  <url><loc>https://enesbsafak.github.io/glasswave-site/support.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://enesbsafak.github.io/glasswave-site/privacy.html</loc><lastmod>2026-11-10</lastmod></url>
+</urlset>
